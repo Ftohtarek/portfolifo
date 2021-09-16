@@ -11,7 +11,7 @@ password:123456789
 # system controller digram 
 * i bulid this system as units for each table  in frist  but i bored from repeatation so i bulid as one unit have it's brain
 - 
-1- detect system requried [from_where,what_operator,requests(values)]
+1 - detect system requried [from_where,what_operator,requests(values)]
 2- filter this required as system need
 3- kerenl is the brain of system if the opereator in the system jop then kerenal bulid the connection to database and distrubte the operator to the methods 
 4- the three crud operoter do the same but in different in value will set , table column and validation 
