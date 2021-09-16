@@ -8,4 +8,5 @@ to go inside dashboard just add in url admin
 email:ftohtarek@gmail.com
 password:123456789
 # system controller digram 
-* this
+* i bulid this system as unit in frist  but i bored from repeatation so i bulid as one unit have it's brain
+1- detect system requried [from_where,what_operator,requests]
