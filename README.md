@@ -1,5 +1,5 @@
 # portfolifo
-this project is traning in php native have dashboard with complete crud operator
+this project is traning in php native .the project is  dashboard with complete crud operator
 not bulid in concept of mcv. 
 
 - design is copy just handle it to service in the project needs
